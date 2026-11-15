@@ -36,5 +36,4 @@ I'm open to frontend and full-stack developer roles where I can contribute to pr
 
 ## Contact
 
-- [Email](mailto:mehmetcagatay27@gmail.com)
 - [Website](https://novexxa.dev/de)
