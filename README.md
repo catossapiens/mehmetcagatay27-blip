@@ -16,11 +16,11 @@ I'm interested in frontend and full-stack developer opportunities, particularly 
 
 ## Selected work
 
-The project summaries below describe scope. Their source repositories and demos are not currently public, so I do not link to or claim public builds for them.
+### [Go Kids Play](https://github.com/mehmetcagatay27-blip/go-kids-play-case-study)
 
-### Go Kids Play
+A business management application for a children's play-centre, focused on memberships, session tracking, payments, staff permissions and reporting. The linked public case study documents verified workflows and architecture without publishing the private source code.
 
-A business management application for a children's play-centre, focused on memberships, session tracking, payments, staff permissions and reporting. The project uses Next.js, TypeScript, Supabase and PostgreSQL.
+The source repositories and demos for the following projects are not currently public, so I do not link to or claim public builds for them.
 
 ### NOVA
 
